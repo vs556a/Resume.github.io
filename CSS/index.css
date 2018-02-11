@@ -134,8 +134,13 @@ header .nav-move {
         display: inline-block;
         padding-right: 0;
     }
+    .col-md-6 {
+        display: inline-block;
+        padding-right: 0;
+    }
     .col-md-8 {
         display: inline-block;
+        height:100%;
         padding-right: 0;
     }
 }
