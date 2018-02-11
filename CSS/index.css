@@ -134,15 +134,11 @@ header .nav-move {
         display: inline-block;
         padding-right: 0;
     }
-}
-
-@media (min-width:160px) {
     .col-md-8 {
         display: inline-block;
         padding-right: 0;
     }
 }
-
 
 @media (max-width:990px) {
     .content .pic {
